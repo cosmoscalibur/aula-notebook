@@ -1,0 +1,9 @@
+name: pycon-2018
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - sympy
+  - ipywidgets

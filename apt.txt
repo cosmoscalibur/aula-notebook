@@ -1,0 +1,4 @@
+libttspico0
+libttspico-utils
+libttspico-dat
+alsa-utils
