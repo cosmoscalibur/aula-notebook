@@ -1,4 +1,4 @@
 libttspico0
 libttspico-utils
-libttspico-dat
+libttspico-data
 alsa-utils
