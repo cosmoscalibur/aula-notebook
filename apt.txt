@@ -2,3 +2,5 @@ libttspico0
 libttspico-utils
 libttspico-data
 alsa-utils
+texlive-xetex
+pandoc
