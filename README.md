@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cosmoscalibur/aula-notebook.git/master)
+
 # Usando notebook en el aula
 
 Este proyecto es una recopilación de mi experiencia usando Jupyter notebook en
